@@ -29,7 +29,6 @@ public class Employee {
 	public void setGender(char gender) {
 		this.gender = gender;
 	}
-	
 	public Employee() {
 		super();
 	}
