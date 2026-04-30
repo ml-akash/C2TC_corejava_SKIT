@@ -1,4 +1,5 @@
-package mlinheritance;
+package com.tnsif.mlinheritance;
+
 
 public class State extends Country {
 	private String stateName;
